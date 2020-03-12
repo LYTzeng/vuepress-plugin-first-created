@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-plugin-first-created",
+  "version": "0.0.1",
+  "description": "first-created plugin for vuepress",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Li-Yen Tseng <t104820003@ntut.org.tw>",
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^6.0.5"
+  }
+}
